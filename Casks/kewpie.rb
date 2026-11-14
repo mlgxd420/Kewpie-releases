@@ -4,7 +4,7 @@ cask "kewpie" do
 
   url "https://github.com/mlgxd420/Kewpie-releases/releases/download/v#{version}/Kewpie.dmg"
   name "Kewpie"
-  desc "A native queue for things you want to come back to"
+  desc "AI-native to-do and reminder app with on-device Apple Intelligence"
   homepage "https://github.com/mlgxd420/Kewpie-releases"
 
   auto_updates true

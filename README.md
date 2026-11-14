@@ -6,7 +6,7 @@ Requires **macOS 26.1 or later**. Supports Apple silicon and Intel Macs. Apple I
 
 ## Download
 
-The first public release is being prepared. Once it is published, use **[Download Kewpie.dmg](https://github.com/mlgxd420/Kewpie-releases/releases/latest/download/Kewpie.dmg)** or browse [all releases](https://github.com/mlgxd420/Kewpie-releases/releases).
+Use **[Download Kewpie.dmg](https://github.com/mlgxd420/Kewpie-releases/releases/latest/download/Kewpie.dmg)** or browse [all releases](https://github.com/mlgxd420/Kewpie-releases/releases).
 
 Open the DMG and drag **Kewpie** into **Applications**. Official releases are signed with Developer ID and notarized by Apple.
 
@@ -15,8 +15,6 @@ Open the DMG and drag **Kewpie** into **Applications**. Official releases are si
 Downloaded releases check for updates daily and download them automatically. Installation normally happens when you quit Kewpie. You can also use **Kewpie → Check for Updates…**, or change automatic updates in **Settings → Updates**.
 
 ## Homebrew
-
-After the first release is published:
 
 ```sh
 brew tap mlgxd420/kewpie https://github.com/mlgxd420/Kewpie-releases

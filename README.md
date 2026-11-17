@@ -3,7 +3,7 @@
   <h1>Kewpie</h1>
   <p><strong>An AI-native to-do and reminder app for Mac.</strong></p>
   <p>Turn what you’re looking at into something you’ll remember to do.<br>Powered by Apple Intelligence. Your tasks and AI processing stay on your Mac.</p>
-  <p><a href="https://github.com/mlgxd420/Kewpie-releases/releases/download/v1.0.11/Kewpie-1.0.11.dmg"><strong>Download for Mac · v1.0.11</strong></a> &nbsp; · &nbsp; <a href="https://github.com/mlgxd420/Kewpie-releases/releases">Release history</a> &nbsp; · &nbsp; <a href="#install-with-homebrew">Install with Homebrew</a></p>
+  <p><a href="https://github.com/mlgxd420/Kewpie-releases/releases/download/v1.0.12/Kewpie-1.0.12.dmg"><strong>Download for Mac · v1.0.12</strong></a> &nbsp; · &nbsp; <a href="https://github.com/mlgxd420/Kewpie-releases/releases">Release history</a> &nbsp; · &nbsp; <a href="#install-with-homebrew">Install with Homebrew</a></p>
   <p>macOS 26.1+ &nbsp; · &nbsp; Apple silicon &amp; Intel &nbsp; · &nbsp; Signed &amp; Apple-notarized</p>
 </div>
 
@@ -32,7 +32,7 @@ Kewpie connects to the internet to check for and download updates, and to retrie
 
 ## Download and install
 
-1. **[Download Kewpie.dmg](https://github.com/mlgxd420/Kewpie-releases/releases/download/v1.0.11/Kewpie-1.0.11.dmg)**.
+1. **[Download Kewpie.dmg](https://github.com/mlgxd420/Kewpie-releases/releases/download/v1.0.12/Kewpie-1.0.12.dmg)**.
 2. Open the DMG and drag **Kewpie** into **Applications**.
 3. Open Kewpie from Applications and follow setup.
 

@@ -1,6 +1,6 @@
 cask "kewpie" do
-  version "1.0.16"
-  sha256 "233f4d1935bd66fda1a76017f44cc7b88915614201ff4da28b76a9a50e7279f6"
+  version "1.0.17"
+  sha256 "a5199752ac7862d7be8aad6077375c337dbf8d7e910e0c9a45ae368695867bbc"
 
   url "https://github.com/mlgxd420/Kewpie-releases/releases/download/v#{version}/Kewpie.dmg"
   name "Kewpie"
